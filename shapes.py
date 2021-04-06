@@ -163,5 +163,5 @@ def calculateY() -> float:
     return top / bottom
 
 
-def calculate() -> tuple[float, float]:
+def calculate():
     return calculateX(), calculateY()
